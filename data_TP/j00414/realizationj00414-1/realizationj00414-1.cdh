@@ -1,0 +1,17 @@
+Data filename: realizationj00414-1.cdf
+Number of events: 54415296
+Data mode: histogram
+Data type: pet
+Start time (s): 0
+Duration (s): 1800
+Scanner name: PET_SIEMENS_BIOGRAPH6_TRUEPOINT_TRUEV
+Maximum number of lines per event: 6
+Axial compression: 11
+Azymutal compression: 1
+Max ring diff: 38
+Calibration factor: 6.3235e+07
+Isotope: F-18
+Attenuation correction flag: 1
+Normalization correction flag: 1
+Scatter correction flag: 1
+Random correction flag: 1

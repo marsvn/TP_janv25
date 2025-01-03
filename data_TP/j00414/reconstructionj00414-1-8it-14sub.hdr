@@ -1,0 +1,35 @@
+!INTERFILE := 
+!imaging modality := PET
+!version of keys := CASToRv3.1
+CASToR version := 3.1
+
+!GENERAL DATA := 
+!originating system := PET_SIEMENS_BIOGRAPH6_TRUEPOINT_TRUEV
+!data offset in bytes := 0
+!name of data file := realizationj00414-1_it8.img
+patient name := realizationj00414-1_it8
+
+!GENERAL IMAGE DATA := 
+!type of data := Dynamic
+!total number of images := 109
+imagedata byte order := LITTLEENDIAN
+!number of frame groups :=1 
+process status := 
+
+!STATIC STUDY (General) :=
+number of dimensions := 3
+!matrix size [1] := 128
+!matrix size [2] := 128
+!matrix size [3] := 109
+!number format := short float
+!number of bytes per pixel := 4
+scaling factor (mm/pixel) [1] := 2.03642
+scaling factor (mm/pixel) [2] := 2.03642
+scaling factor (mm/pixel) [3] := 2.027
+first pixel offset (mm) [1] := 0
+first pixel offset (mm) [2] := 0
+first pixel offset (mm) [3] := 0
+data rescale offset := 0
+data rescale slope := 1
+quantification units := 1
+!END OF INTERFILE := 
